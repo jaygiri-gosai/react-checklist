@@ -1,0 +1,33 @@
+{
+  "name": "react-checklist",
+  "version": "1.0.0",
+  "description": "React code to display a checklist with multiple options that can select and the selected options are dynamically displayed on the screen.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygiri-gosai/react-checklist.git"
+  },
+  "keywords": [
+    "React",
+    "State",
+    "Components"
+  ],
+  "author": "Jay Gosai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaygiri-gosai/react-checklist/issues"
+  },
+  "homepage": "https://github.com/jaygiri-gosai/react-checklist#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
