@@ -5,7 +5,7 @@ React code to display a checklist with multiple options that can select and the 
 The following are the steps to create a Checklist in React JS:
 
 1. Create React state to track checkbox value.
-   2 .Add checkbox input element to JSX code with onChange function.
+2. Add checkbox input element to JSX code with onChange function.
 
 ## DEMO
 
